@@ -1,0 +1,9 @@
+----IN GAME----
+[w] - Jump
+[a] - move left
+[d] - move right
+
+----IN MENUS----
+[w] - prev. option
+[s] - next option
+[SPACE] - use option
